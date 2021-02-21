@@ -2,4 +2,4 @@
 > Translate an code in C0 programming language to n AST (Abstract Syntax Trees)
 
 ## About
-Prentende-se que implementem um compilador básico para a linguagem C0, um dialeto da linguagem C desenvolvido na Universidade de Carnegie Mellon para ensino. O compilador deverá ler código fonte C0 e imprimir a sua Abstract Syntax Tree ou terminar com erro.
+It is intended to implement a basic compiler for the C0 language, a C language dialect developed at Carnegie Mellon University for teaching. The compiler must read C0 source code and print its Abstract Syntax Tree or end with an error. 
